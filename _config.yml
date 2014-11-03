@@ -1,0 +1,12 @@
+# Site settings
+title: Roman Lehnert
+email: roman.lehnert@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Roman Lehnert about webdevelopment
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: sunny.io
+github_username:  romanlehnert
+
+# Build settings
+markdown: kramdown
